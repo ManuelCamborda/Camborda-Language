@@ -9,8 +9,6 @@
 #include <string>
 #include <vector>
 
-using DeclarationList = std::vector<DeclarationPtr>;
-
 class Parser {
 private:
   std::unique_ptr<Lexer> lexer;

@@ -5,6 +5,7 @@
 #include <memory>
 #include <string>
 #include <utility>
+#include <vector>
 
 enum class DeclarationKind { DeclFunctionKind, DeclLetKind, DeclConstKind };
 
@@ -28,3 +29,4 @@ public:
 };
 
 using DeclarationPtr = std::unique_ptr<Declaration>;
+using DeclarationList = std::vector<DeclarationPtr>;
