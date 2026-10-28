@@ -1,0 +1,31 @@
+[
+{
+  "directory": "c:\\Personal\\Programacao\\c-c++\\Camborda Language",
+  "arguments": ["C:\\msys64\\ucrt64\\bin\\clang++.exe", "-c", "-Qunused-arguments", "--target=x86_64-pc-windows-msvc", "-fms-runtime-lib=dll", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Isrc", "-fexceptions", "-fcxx-exceptions", "-DNDEBUG", "-o", "build\\.objs\\Camborda Language\\windows\\x64\\release\\src\\camborda\\core\\Position.cpp.obj", "src\\camborda\\core\\Position.cpp"],
+  "file": "src\\camborda\\core\\Position.cpp"
+},
+{
+  "directory": "c:\\Personal\\Programacao\\c-c++\\Camborda Language",
+  "arguments": ["C:\\msys64\\ucrt64\\bin\\clang++.exe", "-c", "-Qunused-arguments", "--target=x86_64-pc-windows-msvc", "-fms-runtime-lib=dll", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Isrc", "-fexceptions", "-fcxx-exceptions", "-DNDEBUG", "-o", "build\\.objs\\Camborda Language\\windows\\x64\\release\\src\\camborda\\core\\Range.cpp.obj", "src\\camborda\\core\\Range.cpp"],
+  "file": "src\\camborda\\core\\Range.cpp"
+},
+{
+  "directory": "c:\\Personal\\Programacao\\c-c++\\Camborda Language",
+  "arguments": ["C:\\msys64\\ucrt64\\bin\\clang++.exe", "-c", "-Qunused-arguments", "--target=x86_64-pc-windows-msvc", "-fms-runtime-lib=dll", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Isrc", "-fexceptions", "-fcxx-exceptions", "-DNDEBUG", "-o", "build\\.objs\\Camborda Language\\windows\\x64\\release\\src\\camborda\\syntax\\ast\\Parser.cpp.obj", "src\\camborda\\syntax\\ast\\Parser.cpp"],
+  "file": "src\\camborda\\syntax\\ast\\Parser.cpp"
+},
+{
+  "directory": "c:\\Personal\\Programacao\\c-c++\\Camborda Language",
+  "arguments": ["C:\\msys64\\ucrt64\\bin\\clang++.exe", "-c", "-Qunused-arguments", "--target=x86_64-pc-windows-msvc", "-fms-runtime-lib=dll", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Isrc", "-fexceptions", "-fcxx-exceptions", "-DNDEBUG", "-o", "build\\.objs\\Camborda Language\\windows\\x64\\release\\src\\camborda\\syntax\\lexer\\Lexer.cpp.obj", "src\\camborda\\syntax\\lexer\\Lexer.cpp"],
+  "file": "src\\camborda\\syntax\\lexer\\Lexer.cpp"
+},
+{
+  "directory": "c:\\Personal\\Programacao\\c-c++\\Camborda Language",
+  "arguments": ["C:\\msys64\\ucrt64\\bin\\clang++.exe", "-c", "-Qunused-arguments", "--target=x86_64-pc-windows-msvc", "-fms-runtime-lib=dll", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Isrc", "-fexceptions", "-fcxx-exceptions", "-DNDEBUG", "-o", "build\\.objs\\Camborda Language\\windows\\x64\\release\\src\\camborda\\syntax\\lexer\\Token.cpp.obj", "src\\camborda\\syntax\\lexer\\Token.cpp"],
+  "file": "src\\camborda\\syntax\\lexer\\Token.cpp"
+},
+{
+  "directory": "c:\\Personal\\Programacao\\c-c++\\Camborda Language",
+  "arguments": ["C:\\msys64\\ucrt64\\bin\\clang++.exe", "-c", "-Qunused-arguments", "--target=x86_64-pc-windows-msvc", "-fms-runtime-lib=dll", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-Isrc", "-fexceptions", "-fcxx-exceptions", "-DNDEBUG", "-o", "build\\.objs\\Camborda Language\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
